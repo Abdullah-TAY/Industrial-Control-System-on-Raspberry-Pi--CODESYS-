@@ -24,7 +24,7 @@ By virtualizing these functions on a Raspberry Pi 5, we achieve a high-performan
 ---
 
 ## 📸 Visualization Preview
-![HMI Dashboard Demo](.docs/Dashboard_Animation.gif)
+![HMI Dashboard Demo](docs/Dashboard_Animation.gif)
 
 *Figure 1: Real-time WebVisu HMI controlling logic on the Raspberry Pi.*
 
